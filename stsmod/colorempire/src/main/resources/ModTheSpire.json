@@ -1,0 +1,10 @@
+{
+  "modid": "有色帝国mod",
+  "name": "有色帝国",
+  "author_list": ["HanLKarMa"],
+  "description": "一个mod。",
+  "version": "0.0.1",
+  "sts_version": "7-21-2025",
+  "mts_version": "3.30.3",
+  "dependencies": ["basemod", "stslib"]
+}

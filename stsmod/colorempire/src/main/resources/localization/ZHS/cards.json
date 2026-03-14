@@ -1,0 +1,52 @@
+{
+  "colorempire:peacewithin": {
+    "NAME": "内在平静",
+    "DESCRIPTION": "抽 !M! 张牌， NL 消耗一张牌。"
+  },
+  "colorempire:Strike": {
+    "NAME": "打击",
+    "DESCRIPTION": "对一名敌人造成 !D! 点伤害。"
+  },
+  "colorempire:survival instinct": {
+    "NAME": "求生本能",
+    "DESCRIPTION": " *不能被打出。 NL 当这张牌被消耗时获得一层灵体。",
+    "UPGRADE_DESCRIPTION": "*不能被打出。 NL 当这张牌被消耗时获得一层灵体，一层缓冲。"
+  },
+  "colorempire:see through": {
+    "NAME": "看破",
+    "DESCRIPTION": "如果对方的意图是攻击，抽 !M! 张牌。"
+  },
+  "colorempire:sword dance": {
+    "NAME": "剑舞",
+    "DESCRIPTION": "虚无。 NL 对一名敌人造成 !D! 点伤害， NL 获得一张复制品到抽牌堆顶部。 NL 消耗。"
+  },
+  "colorempire:vision of inter demon": {
+    "NAME": "心魔视界",
+    "DESCRIPTION": "抽 !M! 张牌， NL 将一张 *虚空 放入你的弃牌堆中。"
+  },
+  "colorempire:vibes": {
+    "NAME": "共鸣",
+    "DESCRIPTION": "你在这个回合内每打出过一张牌，就对所有敌人造成一次 !D! 点伤害。"
+  },
+  "colorempire:golden armour": {
+    "NAME": "黄金甲",
+    "DESCRIPTION": "获得三层荆棘和金属化。"
+  },
+  "colorempire:dark embrace": {
+    "NAME": "黑暗之拥",
+    "DESCRIPTION": "每当有一张牌被 *消耗 时 NL ，抽1张牌。"
+  },
+  "colorempire:inter demon": {
+    "NAME": "心魔",
+    "DESCRIPTION": "所有敌人获得2层易伤， NL 你获得一层易伤， NL 将一张 *虚空 放入你的弃牌堆中, NL 消耗。",
+    "UPGRADE_DESCRIPTION": "所有敌人获得3层易伤， NL 将一张 *虚空 放入你的弃牌堆中, NL 消耗。"
+  },
+  "colorempire:sneak attack": {
+    "NAME": "偷袭",
+    "DESCRIPTION": "对一名敌人造成 !D! 点伤害。 NL 如果敌人的意图不是攻击，再次造成 !D! 点伤害。"
+},
+  "colorempire:bloodthirsty": {
+    "NAME": "嗜血",
+    "DESCRIPTION": "当敌人获得状态时， NL 获得 !M! 层力量。"
+  }
+}

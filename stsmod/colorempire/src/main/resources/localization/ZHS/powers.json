@@ -1,0 +1,14 @@
+{
+  "colorempire:BloodthirstyPower": {
+    "NAME": "BloodthirstyPower",
+    "DESCRIPTIONS": [
+      "当敌人获得状态时，获得 #b%d 层力量。"
+    ]
+  },
+  "colorempire:GarrisonPower": {
+    "NAME": "GarrisonPower",
+    "DESCRIPTIONS": [
+      "回合结束时，保留 #b%d 张牌。"
+    ]
+  }
+}
